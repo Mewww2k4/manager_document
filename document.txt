@@ -1,0 +1,30 @@
+
+ID          Title               Publisher           Number Release      Author              Type           Year Publish   Price          Quantity       Language          ISBN           Genre             Status            
+1           1                   1                   1                   1                   1              1              1.0            1              1                 1              1                 1                 
+2           2                   2                   2                   2                   2              2              1.0            2              2                 2              2                 2                 
+5           5                   5                   5                   5                   5              5              5.0            5              5                 5              5                 5                 
+
+ID          Title               Publisher           Number Release      Author              Type           Year Publish   Price          Quantity       Language          ISBN           Genre             Status            
+1           1                   1                   1                   1                   1              1              1.0            1              1                 1              1                 1                 
+2           2                   2                   2                   2                   2              2              2.0            2              2                 2              2                 2                 
+
+ID          Title               Publisher           Number Release      Author              Type           Year Publish   Price          Quantity       Language          ISBN           Genre             Status            
+1           1                   1                   1                   1                   1              1              1.0            1              1                 1              1                 1                 
+
+									-------------------------------BOOK-----------------------------------
+
+ID          Title               Publisher           Number Release      Author              Type           Year Publish   Price          Quantity       Language          ISBN           Genre             Status            
+1           1                   1                   1                   1                   1              1              1.0            1              1                 1              1                 1                 
+
+										-------------------------------BOOK-----------------------------------
+
+ID          Title               Publisher           Number Release      Author              Type           Year Publish   Price          Quantity       Language          ISBN           Genre             Status            
+12          Nguoi nha que       Hoa Sen             1234                Thao Trang          Book           2004           20000.0        302            Tieng Viet        123            Tieu thuyet       Old               
+
+										-------------------------------BOOK-----------------------------------
+ID          Title               Publisher           Number Release      Author              Type           Year Publish   Price          Quantity       Language          ISBN           Genre             Status            
+12          Nguoi nha que       Hoa Sen             1234                Thao Trang          Book           2004           20000.0        302.0          Tieng Viet        123            Tieu thuyet       Old               
+
+										-------------------------------MAGAZINE-----------------------------------
+ID          Title               Publisher           Number Release      Author              Type           Year Publish   Price          Quantity       Language          Editor         Frequecy Publish  
+2           2                   2                   2                   2                   2              2              2.0            2.0            2                 2              2                 

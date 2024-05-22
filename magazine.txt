@@ -1,0 +1,4 @@
+
+
+ID          Title               Publisher           Number Release      Author              Type           Year Publish   Price          Quantity       Language          Editor         Frequecy Publish  
+2           2                   2                   2                   2                   2              2              2              2              2                 2              2                 

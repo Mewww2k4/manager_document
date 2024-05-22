@@ -1,0 +1,4 @@
+	-------------------------------BOOK-----------------------------------
+
+ID          Title               Publisher           Number Release      Author              Type           Year Publish   Price          Quantity       Language          ISBN           Genre             Status            
+12          Nguoi nha que       Hoa Sen             1234                Thao Trang          Book           2004           20000.0        302            Tieng Viet        123            Tieu thuyet       Old                                              

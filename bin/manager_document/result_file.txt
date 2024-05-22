@@ -1,0 +1,15 @@
+---------------Book-----------------
+ID: 1
+Title: Mien dat 
+Name Publisher: nha xuat ban giao duc viet Nam
+Author: ThuyTrinh
+Type Doc: Doc
+Language: Viet
+Format: Sach
+Number Release: 2000
+Year Publish: 2023
+Quantity: 12372
+Price: 60000.0
+Isbn: 1263
+Genre: Tieu thuyet
+Status: new
